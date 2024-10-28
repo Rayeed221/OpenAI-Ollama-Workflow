@@ -1,4 +1,4 @@
-# OpenAI-Ollama-Workflow
+# OpenAI(API)-Ollama(Local)-Workflow
 This Python project showcases an AI integration using both OpenAI’s API and local Ollama models to perform tasks such as crafting detailed prompts, enhancing outlines, and incorporating specific knowledge. It loops through local models and uses API calls to enhance the structure and content of a message. The script can be used to generate detailed outlines, improve textual data, and generate well-structured responses using several AI models.
 
 ### Features
